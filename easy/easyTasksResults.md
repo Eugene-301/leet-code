@@ -2,7 +2,7 @@
 
 ## Task in process:
 - 217 Contains duplicate: 
-    - First solution: ❌
+    - First solution: ✔️
     - Best solution: ❌
 
 
