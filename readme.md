@@ -1,6 +1,6 @@
 # My leet code problems solutions
 
-## Current tasks full done: 0
+## Current tasks full done: 1
 
 ## Task in process:
 - 217 Contains duplicate: 
