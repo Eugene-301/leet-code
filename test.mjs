@@ -4,7 +4,7 @@ export default function test(result, expectedResult) {
 
   if (stringifiedResult !== stringifiedExpectedResult) {
     console.log(
-      `Error! expected result: ${stringifiedResult}, but function returned ${stringifiedExpectedResult}`
+      `Error! expected result: ${stringifiedExpectedResult}, but function returned ${stringifiedResult}`
     );
   } else if (stringifiedResult === stringifiedExpectedResult) {
     console.log("Succes! expected result and result match!");
