@@ -3,7 +3,7 @@
 ## Current tasks full done: 0
 
 ## Task in process:
-* 217. Contains duplicate: 
+- 217 Contains duplicate: 
     First solution: ❌
     Best solution: ❌
 
