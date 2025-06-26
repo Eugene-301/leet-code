@@ -4,8 +4,9 @@
 
 ## Task in process:
 - 217 Contains duplicate: 
-    - First solution: ✔️
-    - Best solution: ❌
+    - [First solution](./easy/containsDuplicate/firstSolution.mjs): ✔️
+    - [Best solution](./easy/containsDuplicate/bestSolution.mjs): ✔️
+    - [Solutions difference](./easy/easyTasksResults.md#217-difference)
 
 
 
