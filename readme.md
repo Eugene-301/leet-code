@@ -7,6 +7,10 @@
     - [First solution](./easy/containsDuplicate/firstSolution.mjs): ✔️
     - [Best solution](./easy/containsDuplicate/bestSolution.mjs): ✔️
     - [Solutions difference](./easy/easyTasksResults.md#217-difference)
+- 242 Valid Anagram: 
+    - [First solution](./easy/validAnagram/firstSolution.mjs): ❌
+    - [Best solution](./easy/validAnagram/bestSolution.mjs): ❌
+    - [Solutions difference](./easy/easyTasksResults.md)
 
 
 
